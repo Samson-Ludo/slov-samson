@@ -2,7 +2,7 @@
 
 This project was built with React and Redux Toolkit. It enables the user to create, read, update and delete tasks that have allocated date and time.
 
-View live site [here](http://localhost:3000)
+View live site [here](https://slov-task-manager-by-samson-okaludo.netlify.app/)
 
 ## To run on your local machine
 
